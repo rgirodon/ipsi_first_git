@@ -2,4 +2,4 @@ import { sayHello, sayGoodbye } from './util.mjs';
 
 sayHello();
 sayGoodbye();
-console.log("Ola les IPSI king !");
+console.log("Hola les IPSI king !");
