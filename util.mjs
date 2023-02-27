@@ -1,7 +1,7 @@
 export function sayHello() {
-    console.log("Hola !");
+    console.log("Ciao !");
 }
 
 export function sayGoodbye() {
-    console.log("Adios !");
+    console.log("Ciao !");
 }
