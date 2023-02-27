@@ -9,3 +9,7 @@ export function sayGoodbye() {
 export function add(nb1, nb2) {
     return nb1 + nb2;
 }
+
+export function minus(nb1, nb2) {
+    return nb1 - nb2;
+}
