@@ -5,3 +5,19 @@ export function sayHello() {
 export function sayGoodbye() {
     console.log("Ciao !");
 }
+
+export function add(nb1, nb2) {
+    return nb1 + nb2;
+}
+
+export function minus(nb1, nb2) {
+    return nb1 - nb2;
+}
+
+export function multiply(nb1, nb2) {
+    return nb1 * nb2;
+}
+
+export function divide(nb1, nb2) {
+    return nb1 / nb2;
+}
