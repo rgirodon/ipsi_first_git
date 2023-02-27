@@ -25,3 +25,7 @@ export function divide(nb1, nb2) {
 export function modulo(nb1, nb2) {
     return nb1 % nb2;
 }
+
+export function square(nb1) {
+    return nb1 * nb1;
+}
