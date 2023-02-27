@@ -21,3 +21,7 @@ export function multiply(nb1, nb2) {
 export function divide(nb1, nb2) {
     return nb1 / nb2;
 }
+
+export function modulo(nb1, nb2) {
+    return nb1 % nb2;
+}
